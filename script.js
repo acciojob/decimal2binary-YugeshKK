@@ -1,7 +1,7 @@
 function decimalToBinary(num) {
   //Write you code here
   let bin=0;
-	let i=, rem=1;
+	let i, rem=1;
 	while(num!=0){
 		rem=num%2;
 		num=parseInt(num/2);
