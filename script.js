@@ -1,4 +1,4 @@
-function decimalToBinary(num) {
+function decimalToBinary(x) {
   //Write you code here
     let bin = 0;
     let rem, i = 1, step = 1;
